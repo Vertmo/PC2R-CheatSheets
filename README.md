@@ -6,3 +6,4 @@ Un ensemble d'aides mémoires (extraits de sources officielles) pour l'UE PC2R
 * GNU make
 
 ## Sources
+* [Fair Threads in C](https://www-sop.inria.fr/meije/rp/FairThreads/FTC/documentation/ft.html)
