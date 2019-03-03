@@ -1,4 +1,4 @@
-all: fairthreads.pdf
+all: fairthreads.pdf ocaml-event.pdf
 
 %.pdf: %.md
 	pandoc -s -o $@ $^
